@@ -1,6 +1,6 @@
 # process-mining-for-bots
 
-This framework provides modules that can be used to do various process mining tasks on bot models. It also contains a demo notebook that demonstrates how to use the framework.
+This framework provides modules that can be used to do various process mining tasks on bot models. It also contains a demo notebook called `demo.ipynb` that demonstrates how to use the framework. Alternatively, you can also open it as a [webpage](https://abbsifiabaosu4.github.io/process-mining-for-bots/demo).
 
 ## Installation
 
